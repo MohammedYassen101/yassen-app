@@ -1,0 +1,6 @@
+{
+  "name": "LeaseFlow AI",
+  "description": "Cross-platform real estate management system with smart AI email generation, real-time sync, role-based workflows, and multilingual Arabic/English RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

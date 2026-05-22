@@ -1,0 +1,23 @@
+name: leaseflow_ai_mobile
+description: "LeaseFlow AI - Cross-platform real estate property management system client."
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  flutter_localization: ^0.2.0
+  google_generative_ai: ^0.2.2
+  image_picker: ^1.0.7
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
